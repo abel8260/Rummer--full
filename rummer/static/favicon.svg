@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1734"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1736"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.46769781"
+     inkscape:cx="367.75883"
+     inkscape:cy="363.48256"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1731" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#241c1c;fill-rule:evenodd;stroke:#fef3f3;stroke-width:6.277"
+       id="rect3924"
+       width="200"
+       height="200"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#784421;fill-rule:evenodd;stroke:#fef3f3;stroke-width:6.277"
+       d="m 47.52,50.34857 -20.365715,45.822856 20.931428,12.445714 89.948567,3.96 7.35429,-50.34857 -76.371429,1.697144 z"
+       id="path3740" />
+    <path
+       style="fill:#784421;fill-rule:evenodd;stroke:#fef3f3;stroke-width:6.277"
+       d="M 48.085713,108.61714 16.971428,178.76571 132.94285,177.63428 122.76,145.95429 56.005713,148.21714 h 7.920001 l 29.134281,-37.62 z"
+       id="path3805" />
+    <path
+       style="fill:#808000;fill-rule:evenodd;stroke:#fef3f3;stroke-width:6.277"
+       d="M 69.017141,63.925714 90.514285,0 h 64.491425 l -47.80285,63.077142 z"
+       id="path3807" />
+    <text
+       xml:space="preserve"
+       style="font-size:51.3868px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;text-anchor:middle;fill:#a14d4d;fill-opacity:1;fill-rule:evenodd;stroke:#ebd4d4;stroke-width:6.277;stroke-opacity:1"
+       x="98.28125"
+       y="41.014282"
+       id="text4032"><tspan
+         sodipodi:role="line"
+         id="tspan4030"
+         x="98.28125"
+         y="41.014282"
+         style="fill:#a14d4d;fill-opacity:1;stroke:#ebd4d4;stroke-width:6.277;stroke-opacity:1">Rmmr</tspan></text>
+    <path
+       style="fill:#a14d4d;fill-opacity:1;fill-rule:evenodd;stroke:#ebd4d4;stroke-width:6.277;stroke-opacity:1"
+       d="M -9.2200917e-8,53.110668 H 200"
+       id="path4147" />
+  </g>
+</svg>
